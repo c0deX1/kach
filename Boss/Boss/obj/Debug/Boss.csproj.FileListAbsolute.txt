@@ -1,0 +1,18 @@
+c:\users\home\documents\visual studio 2013\Projects\Boss\Boss\bin\Debug\Boss.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\bin\Debug\Boss.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\bin\Debug\Boss.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\obj\Debug\Boss.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\obj\Debug\Boss.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\obj\Debug\Boss.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\obj\Debug\Boss.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Boss\Boss\obj\Debug\Boss.BossForm.resources
+C:\Users\sizv1\Desktop\Project\Boss\Boss\bin\Debug\Boss.exe.config
+C:\Users\sizv1\Desktop\Project\Boss\Boss\bin\Debug\Boss.exe
+C:\Users\sizv1\Desktop\Project\Boss\Boss\bin\Debug\Boss.pdb
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.csprojAssemblyReference.cache
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.BossForm.resources
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.Properties.Resources.resources
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.csproj.GenerateResource.cache
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.csproj.CoreCompileInputs.cache
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.exe
+C:\Users\sizv1\Desktop\Project\Boss\Boss\obj\Debug\Boss.pdb

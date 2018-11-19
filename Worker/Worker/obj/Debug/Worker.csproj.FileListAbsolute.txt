@@ -1,0 +1,12 @@
+c:\users\home\documents\visual studio 2013\Projects\Worker\Worker\bin\Debug\Worker.exe.config
+c:\users\home\documents\visual studio 2013\Projects\Worker\Worker\bin\Debug\Worker.exe
+c:\users\home\documents\visual studio 2013\Projects\Worker\Worker\bin\Debug\Worker.pdb
+c:\users\home\documents\visual studio 2013\Projects\Worker\Worker\obj\Debug\Worker.exe
+c:\users\home\documents\visual studio 2013\Projects\Worker\Worker\obj\Debug\Worker.pdb
+C:\Users\sizv1\Desktop\Project\Worker\Worker\bin\Debug\Worker.exe.config
+C:\Users\sizv1\Desktop\Project\Worker\Worker\bin\Debug\Worker.exe
+C:\Users\sizv1\Desktop\Project\Worker\Worker\bin\Debug\Worker.pdb
+C:\Users\sizv1\Desktop\Project\Worker\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+C:\Users\sizv1\Desktop\Project\Worker\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+C:\Users\sizv1\Desktop\Project\Worker\Worker\obj\Debug\Worker.exe
+C:\Users\sizv1\Desktop\Project\Worker\Worker\obj\Debug\Worker.pdb

@@ -1,0 +1,5 @@
+c:\users\home\documents\visual studio 2013\Projects\TaskToDo\TaskToDo\bin\Debug\TaskToDo.exe.config
+c:\users\home\documents\visual studio 2013\Projects\TaskToDo\TaskToDo\bin\Debug\TaskToDo.exe
+c:\users\home\documents\visual studio 2013\Projects\TaskToDo\TaskToDo\bin\Debug\TaskToDo.pdb
+c:\users\home\documents\visual studio 2013\Projects\TaskToDo\TaskToDo\obj\Debug\TaskToDo.exe
+c:\users\home\documents\visual studio 2013\Projects\TaskToDo\TaskToDo\obj\Debug\TaskToDo.pdb
